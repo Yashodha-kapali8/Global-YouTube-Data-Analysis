@@ -1,4 +1,4 @@
-# Data_Science
+# Global-YouTube-Data-Analysis
 This repository presents an Exploratory Data Analysis (EDA) of the Global YouTube Dataset using Python.
 
 Task 1:
